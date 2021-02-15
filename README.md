@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+![Tono's github stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&theme=gruvbox&show_icons=true)
+![Tono's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonomolla6&theme=gruvbox&show_icons=true)
+![Tono's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&show_icons=true&theme=radical)
+
 <!--
 **tonomolla6/tonomolla6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-[Tono's github stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&theme=gruvbox&show_icons=true)
-[Tono's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonomolla6&theme=gruvbox&show_icons=true)
-[Tono's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
