@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 
 
-[![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=tonomolla6)](https://github.com/anuraghazra/github-readme-stats)
+[![Tono's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=tonomolla6)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tono's github stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&theme=gruvbox&show_icons=true)
+![Tono's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonomolla6&theme=gruvbox&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
