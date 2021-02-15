@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Tono's github stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&theme=gruvbox&show_icons=true)
-![Tono's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonomolla6&theme=gruvbox&show_icons=true)
+![Tono's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonomolla6&theme=radical&show_icons=true)
 ![Tono's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonomolla6&show_icons=true&theme=radical)
 
 <!--
