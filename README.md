@@ -9,7 +9,7 @@
 
 - 💬 Pregúntame sobre **vue, laravel, node, facturascripts...**
 
-- 📫 Cómo contactarme **tonomollag6@gmail.com**
+- 📫 Cómo contactarme **mail@tonomolla.es**
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
