@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://tonomolla.es">Portafolio</a> •
   <a href="https://beply.es">Beply</a> •
-  <a href="https://noestoy.app">NOESTOY</a> •
+  <a href="https://noestoy.app">NoestoyY</a> •
   <a href="mailto:mail@tonomolla.es">Email</a> •
   <a href="https://linkedin.com/in/tonomolla6">LinkedIn</a>
 </p>
