@@ -67,4 +67,4 @@ También podemos hablar por LinkedIn: **/in/tonomolla6**
 
 ---
 
-<sub>© Tono Mollá — Basado en trabajo de Brittany (2018). Algunas tecnologías se omiten por seguridad.</sub>
+<sub>Se omiten tecnologías por seguridad de las plataformas.</sub>
