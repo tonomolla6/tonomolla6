@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://tonomolla.es">Portafolio</a> •
   <a href="https://beply.es">Beply</a> •
-  <a href="https://noestoy.app">NoestoyY</a> •
+  <a href="https://noestoy.app">Noestoy</a> •
   <a href="mailto:mail@tonomolla.es">Email</a> •
   <a href="https://linkedin.com/in/tonomolla6">LinkedIn</a>
 </p>
@@ -18,7 +18,7 @@ Me defino como un híbrido entre **artesano tecnológico** (calidad y robustez) 
 
 - 🤝 Actualmente:
   - **Co-fundador y Co-CEO en [Beply](https://beply.es)** (SaaS B2B/ERP cloud modular).
-  - **Co-fundador y CTO en [NOESTOY](https://noestoy.app)** (recuperación de objetos con QR y chat anónimo).
+  - **Co-fundador y CTO en [Noestoy](https://noestoy.app)** (recuperación de objetos con QR y chat anónimo).
 - 💬 Háblame de: **arquitectura**, **Nuxt/Vue**, **Node**, **PHP**, **DevOps/CI/CD**, **APIs**, **Cloud**, **IA aplicada**.
 - 📫 **mail@tonomolla.es**
 
